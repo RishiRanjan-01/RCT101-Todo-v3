@@ -1,0 +1,38 @@
+.inputMainDiv{
+    display: flex;  
+}
+input{
+    height: 30px;
+    width: 90%;
+    margin: auto;
+    padding: 15px;
+    font-size: 22px;
+    letter-spacing: 2px;
+    margin-left: 1px;
+    border-radius: 15px;
+    border: none;
+}
+input:focus{
+    outline: 2px dotted black;
+    background-color: darkkhaki;
+    color:black;
+    font-weight: bold;
+}
+.addButton{
+    height: 63px;
+    width: 60px;
+    font-size: 55px;
+    font-weight: 400;
+    /* margin-left: -120px; */
+    background-color: white;
+    border: none;
+    outline: none;
+    border-radius: 15px;
+   
+}
+.addButton:hover{
+    background-color: seagreen;
+    color: aliceblue;
+    outline: 2px dotted black;
+    cursor: pointer;
+}

@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+
+.maindiv{
+  height: max-content;
+  width: 80%;
+  background-color: #282c34;
+  margin: auto;
+  margin-top: 30px;
+  padding: 25px;
+  background-image: url("https://images.pexels.com/photos/4240497/pexels-photo-4240497.jpeg?auto=compress&cs=tinysrgb&w=1560&h=750&dpr=3");
+}
+.header{
+  text-align: center;
+  color: aliceblue;
+}
